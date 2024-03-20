@@ -1,0 +1,6 @@
+[
+    {"id": 1, "place": "Location A", "video_link": "video1.mp4", "status": "Active"},
+    {"id": 2, "place": "Location B", "video_link": "video2.mp4", "status": "Inactive"},
+    {"id": 3, "place": "Location C", "video_link": "video3.mp4", "status": "Active"}
+  ]
+  
